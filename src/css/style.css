@@ -19,7 +19,7 @@ body{
 /*Header*/
 .header{
     grid-area: header;
-    background-color: #fff;
+    background-color: #ffffff8e;
     width: 100%;
     position: fixed;
     z-index: 1;
